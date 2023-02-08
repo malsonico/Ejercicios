@@ -1,0 +1,11 @@
+#elemento-1, .lista_1{
+    color:red;
+    font-size: 2rem;
+}
+#elemento-2, #elemento-3, #elemento-4, #elemento-5{
+    font-size:medium;
+    color:black;
+}
+.lista_2{
+    font-size: medium;
+}
